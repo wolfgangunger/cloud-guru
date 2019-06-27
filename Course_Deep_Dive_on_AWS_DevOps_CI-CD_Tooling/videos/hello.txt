@@ -1,0 +1,14 @@
+Hello Gloud-Gurus,
+
+my name is Wolfgang Unger - don't worry you don't have to pronounce this - 
+and this is my course about DevOps on AWS.
+You have a good knowledge on AWS, you have experience with Git or other 
+source conrol systems and a basic understanding of DevOps 
+then you are completly right in this course to deep dive into ...
+to learn
+
+After this course you gonna have a real profund knowhow on 
+
+I hope you going to enjoy the course, learn a lot of useful things and become 
+a real devops guru
+Thanks for listening and see you on the first lesson

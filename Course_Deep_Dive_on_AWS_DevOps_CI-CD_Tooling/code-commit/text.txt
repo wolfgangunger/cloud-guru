@@ -1,4 +1,17 @@
 
+S1
+Hello Cloud Gurus,
+welcome to this chapter about CodeCommit.
+
+S2 In this chapter you will learn how to use AWS CodeCommit, everything about
+Repositories, Commits, Branches, Pull Requests and more
+
+S3
+So, first we start with a little introduction and definition of CodeCommit.
+Next some information on how to get GIT knowhow in case you don't have it yet.
+
+Then let's look a little closer on CodeCommit, its benefits and the main objects.
+
 S4
 Lets have a look on the AWS definition of CodeCommit:
 
@@ -19,7 +32,7 @@ There is a really good GIT course on A Cloud Guru, this would be one option.
 Or take a look on these other resources where you could get some good infos and tutorials about GIT.
 
 S7
-Anyway here is a short overview on most important GIT commands, in case you don't know them yet.
+Anyway here is a short overview on the most important GIT commands, in case you don't know them yet.
 
 S8
 With CodeCommit you can store and manage assets (such as documents, source code, and binary files) 

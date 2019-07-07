@@ -98,7 +98,7 @@
           "sampleRate" : 44100,
           "bitDepth" : 16,
           "numChannels" : 2,
-          "integratedLUFS" : -1.79769313486232e+308,
+          "integratedLUFS" : 0.0,
           "peakLevel" : 0.0,
           "metaData" : ""
         }
@@ -142,7 +142,7 @@
           "sampleRate" : 44100,
           "bitDepth" : 16,
           "numChannels" : 2,
-          "integratedLUFS" : -1.79769313486232e+308,
+          "integratedLUFS" : 0.0,
           "peakLevel" : 0.0,
           "metaData" : ""
         }
@@ -186,7 +186,7 @@
           "sampleRate" : 44100,
           "bitDepth" : 16,
           "numChannels" : 2,
-          "integratedLUFS" : -1.79769313486232e+308,
+          "integratedLUFS" : 0.0,
           "peakLevel" : 0.0,
           "metaData" : ""
         }
@@ -230,7 +230,7 @@
           "sampleRate" : 44100,
           "bitDepth" : 16,
           "numChannels" : 2,
-          "integratedLUFS" : -1.79769313486232e+308,
+          "integratedLUFS" : 0.0,
           "peakLevel" : 0.0,
           "metaData" : ""
         }
@@ -274,7 +274,7 @@
           "sampleRate" : 44100,
           "bitDepth" : 16,
           "numChannels" : 2,
-          "integratedLUFS" : -1.79769313486232e+308,
+          "integratedLUFS" : 0.0,
           "peakLevel" : 0.0,
           "metaData" : ""
         }
@@ -753,7 +753,7 @@
                       "sampleRate" : 44100,
                       "bitDepth" : 16,
                       "gain" : 1.0,
-                      "mixToMono" : false
+                      "mixToMono" : true
                     },
                       "channelNumber" : "0,1",
                     "effects" : [
@@ -803,7 +803,7 @@
                       "sampleRate" : 44100,
                       "bitDepth" : 16,
                       "gain" : 1.0,
-                      "mixToMono" : false
+                      "mixToMono" : true
                     },
                       "channelNumber" : "0,1",
                     "effects" : [
@@ -853,7 +853,7 @@
                       "sampleRate" : 44100,
                       "bitDepth" : 16,
                       "gain" : 1.0,
-                      "mixToMono" : false
+                      "mixToMono" : true
                     },
                       "channelNumber" : "0,1",
                     "effects" : [
@@ -903,7 +903,7 @@
                       "sampleRate" : 44100,
                       "bitDepth" : 16,
                       "gain" : 1.0,
-                      "mixToMono" : false
+                      "mixToMono" : true
                     },
                       "channelNumber" : "0,1",
                     "effects" : [
@@ -953,7 +953,7 @@
                       "sampleRate" : 44100,
                       "bitDepth" : 16,
                       "gain" : 1.0,
-                      "mixToMono" : false
+                      "mixToMono" : true
                     },
                       "channelNumber" : "0,1",
                     "effects" : [
@@ -1003,7 +1003,7 @@
                       "sampleRate" : 44100,
                       "bitDepth" : 16,
                       "gain" : 1.0,
-                      "mixToMono" : false
+                      "mixToMono" : true
                     },
                       "channelNumber" : "0,1",
                     "effects" : [
@@ -1148,7 +1148,7 @@
     "backgroundColor" : [ 0, 0, 0, 255]
   },
   "metadata" : {
-    "AutoSaveFile" : "C:\\Users\\ungerw\\AppData\\Local\\TechSmith\\Camtasia Studio\\19.0\\Auto-Saves\\introduction495ef09.autosave.tscproj",
+    "AutoSaveFile" : "C:\\Users\\ungerw\\AppData\\Local\\TechSmith\\Camtasia Studio\\19.0\\Auto-Saves\\introduction13bce2c1.autosave.tscproj",
     "CanvasZoom" : 39,
     "Date" : "04.07.2019 03:21:18 ",
     "IsAutoSave" : "0",
@@ -1163,5 +1163,9 @@
     "canvasPositionLeft" : "0",
     "canvasPositionTop" : "0",
     "canvasPositionWidth" : "0"
-  }
+  },
+  "audioFormatSampleRate" : 44100
+,
+  "themeFile" : null
+
 }
